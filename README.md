@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--
 **windweb/windweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+=======
+[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@windweb)
+[![instagram](https://badges.aleen42.com/src/instagram.svg)](https://www.instagram.com/best_sail)
+[![Github Pages](github.svg)](https://windweb.github.io/)  
+>>>>>>> 104e852 (init README.md)
 
 👋 Heyo, I'm **Kirill** and on GitHub I mostly learn by parsing other people's projects, as well as posting solutions to problems I encounter while learning.
 
@@ -45,4 +51,8 @@ Here are some ideas to get you started:
 24. [x] A/B testing
 25. [ ] Product funnel and conversion
 
+<<<<<<< HEAD
 💬 If you like what I do - feel free to drop by my [discord.windweb.ru](https://discord.windweb.ru/)
+=======
+💬 If you like what I do - feel free to drop by my [discord.windweb.ru](https://discord.windweb.ru/)
+>>>>>>> 104e852 (init README.md)
