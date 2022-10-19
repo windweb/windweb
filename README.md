@@ -1,6 +1,6 @@
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@windweb)
 [![instagram](https://badges.aleen42.com/src/instagram.svg)](https://www.instagram.com/best_sail)
-[![Github Pages](https://raw.githubusercontent.com/windweb/windweb/master/icon/github.svg)](https://windweb.github.io/)  
+[![Github Pages](https://github.com/windweb/windweb/blob/master/github.svg)](https://windweb.github.io/)  
 
 👋 Heyo, I'm **Kirill** and on GitHub I mostly learn by parsing other people's projects, as well as posting solutions to problems I encounter while learning.
 
