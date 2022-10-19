@@ -7,8 +7,7 @@
 🧮 Lately I've been drifting towards **Data Science** with [Practicum](https://practicum.com/data-science/).
 
 **Skills I want to learn**
-1. [+/-] Python
-   1. [x] Basic Python
+1. [x] Basic Python
 2. [x] [Pandas](https://pandas.pydata.org/)
 3. [x] [Seaborn](https://seaborn.pydata.org/)
 4. [ ] [Matplotlib](https://matplotlib.org/)
