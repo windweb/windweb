@@ -4,6 +4,8 @@
 [![Twitter](https://raw.githubusercontent.com/windweb/windweb/master/twitter.svg)](https://twitter.com/aidarovkv)
 <!---
 [![Twitter](https://img.shields.io/twitter/follow/aidarovkv?label=%40aidarovkv&style=social)](https://twitter.com/aidarovkv)
+
+https://metrics.lecoq.io/insights/windweb 
 -->
 
 👋 Heyo, I'm **Kirill** and on GitHub I mostly learn by parsing other people's projects, as well as posting solutions to problems I encounter while learning.
