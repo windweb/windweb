@@ -2,10 +2,9 @@
 [![instagram](https://badges.aleen42.com/src/instagram.svg)](https://www.instagram.com/best_sail)
 [![Github Pages](https://github.com/windweb/windweb/blob/master/github.svg)](https://windweb.github.io/)
 [![Twitter](https://raw.githubusercontent.com/windweb/windweb/master/twitter.svg)](https://twitter.com/aidarovkv)
+<!---
 [![Twitter](https://img.shields.io/twitter/follow/aidarovkv?label=%40aidarovkv&style=social)](https://twitter.com/aidarovkv)
-[![Twitter](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Twitter_logo.svg/70px-Twitter_logo.svg.png)](https://twitter.com/aidarovkv)  
-
-
+-->
 
 👋 Heyo, I'm **Kirill** and on GitHub I mostly learn by parsing other people's projects, as well as posting solutions to problems I encounter while learning.
 
