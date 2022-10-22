@@ -3,6 +3,8 @@
 [![Github Pages](https://github.com/windweb/windweb/blob/master/github.svg)](https://windweb.github.io/)
 [![Twitter](https://img.shields.io/twitter/follow/aidarovkv?label=%40aidarovkv&style=social)](https://twitter.com/aidarovkv)
 [![Twitter](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Twitter_logo.svg/70px-Twitter_logo.svg.png)](https://twitter.com/aidarovkv)  
+![Twitter URL](https://img.shields.io/twitter/url?label=%40aidarovkv&style=social&url=https%3A%2F%2Ftwitter.com%2Faidarovkv)
+
 
 👋 Heyo, I'm **Kirill** and on GitHub I mostly learn by parsing other people's projects, as well as posting solutions to problems I encounter while learning.
 
