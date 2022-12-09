@@ -40,3 +40,4 @@ https://metrics.lecoq.io/insights/windweb
 25. [ ] Product funnel and conversion
 
 💬 If you like what I do - feel free to drop by my [discord.windweb.ru](https://discord.windweb.ru/)
+https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg
