@@ -16,14 +16,14 @@ https://metrics.lecoq.io/insights/windweb
 1. [x] Basic Python
 2. [x] [Pandas](https://pandas.pydata.org/)
 3. [x] [Seaborn](https://seaborn.pydata.org/)
-4. [ ] [Matplotlib](https://matplotlib.org/)
+4. [x] [Matplotlib](https://matplotlib.org/)
 5. [ ] [PyMystem](https://pypi.org/project/pymystem3/)
 6. [ ] [LightGBM](https://github.com/microsoft/LightGBM)
 7. [ ] [XGBoost](https://github.com/dmlc/xgboost)
-8. [ ] [CatBoost](https://catboost.ai/)
-9. [ ] [NTLK](https://www.nltk.org/)
+8. [x] [CatBoost](https://catboost.ai/)
+9. [x] [NTLK](https://www.nltk.org/)
 10. [ ] [CatBoost](https://catboost.ai/)
-11. [ ] [Sci-kit learn](https://scikit-learn.org/stable/)
+11. [x] [Sci-kit learn](https://scikit-learn.org/stable/)
 12. [ ] [Keras](https://keras.io/)
 13. [x] [Numpy](https://numpy.org/)
 14. [ ] [PySpark](https://spark.apache.org/docs/latest/api/python/)
@@ -35,7 +35,7 @@ https://metrics.lecoq.io/insights/windweb
 20. [ ] Data Storage
 21. [ ] Time series analysis
 22. [ ] Data labelling
-23. [ ] Machine learning
+23. [x] Machine learning
 24. [x] A/B testing
 25. [ ] Product funnel and conversion
 
