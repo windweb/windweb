@@ -9,8 +9,9 @@ https://metrics.lecoq.io/insights/windweb
 -->
 
 👋 Hello everyone, my name is **Kirill** and I am a 35-year-old. I have a background in economics and management, with a higher education degree from Siberian Transport University. I have extensive experience working in large companies in economic and investment positions, including management positions.
+In addition, I have been successfully trading in the stock market until March 2022 and have qualified investor status.
 
-I am also a certified sailing vessel skipper and have been working as a skipper for the past 5 years, conducting week-long sailing tours for tourists to destinations such as Turkey, Montenegro, Greece, and Croatia ( https://best-sail.ru ).
+⛵ I am also a certified sailing boat skipper and have been working in [my own company](https://best-sail.ru) for the last 5 years as a skipper, conducting week-long sailing tours for tourists to destinations such as Turkey, Montenegro, Greece, and Croatia 
 
 🧮 Lately I've been drifting towards **Data Science** with [Practicum](https://practicum.com/data-science/). I have set my sights on a new challenge and have been studying Python programming language and data analysis techniques to become a  **Data Science** specialist and analyst. I am confident in my ability to apply my mathematical and business economics knowledge to the field of data science and become a valuable asset to any organization.
 
