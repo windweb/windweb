@@ -8,9 +8,18 @@ https://shields.io/
 https://metrics.lecoq.io/insights/windweb 
 -->
 
-👋 Heyo, I'm **Kirill** and on GitHub I mostly learn by parsing other people's projects, as well as posting solutions to problems I encounter while learning.
+👋 Hello everyone, my name is **Kirill** and I am a 35-year-old. I have a background in economics and management, with a higher education degree from Siberian Transport University. I have extensive experience working in large companies in economic and investment positions, including management positions.
 
-🧮 Lately I've been drifting towards **Data Science** with [Practicum](https://practicum.com/data-science/).
+I am also a certified sailing vessel skipper and have been working as a skipper for the past 5 years, conducting week-long sailing tours for tourists to destinations such as Turkey, Montenegro, Greece, and Croatia ( https://best-sail.ru ).
+
+🧮 Lately I've been drifting towards **Data Science** with [Practicum](https://practicum.com/data-science/). I have set my sights on a new challenge and have been studying Python programming language and data analysis techniques to become a  **Data Science** specialist and analyst. I am confident in my ability to apply my mathematical and business economics knowledge to the field of data science and become a valuable asset to any organization.
+
+My experience in leadership and coordination on the sea will prove to be valuable assets in my new career path. I am eager to apply my skills to real-world problems and make an impact in the field of data science.
+
+I am a lifelong learner and am constantly seeking new challenges and opportunities to grow and develop my skills. Whether on the sea or in the world of data, I am a driven and dedicated individual who is determined to succeed in all of my endeavors.
+
+
+👨‍💻 On GitHub I mostly learn by parsing other people's projects, as well as posting solutions to problems I encounter while learning.
 
 **Skills I want to learn**
 1. [x] Basic Python
