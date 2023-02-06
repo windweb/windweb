@@ -30,7 +30,7 @@ I am a lifelong learner and am constantly seeking new challenges and opportuniti
 5. [ ] [PyMystem](https://pypi.org/project/pymystem3/)
 6. [ ] [LightGBM](https://github.com/microsoft/LightGBM)
 7. [ ] [XGBoost](https://github.com/dmlc/xgboost)
-8. [x] [CatBoost](https://catboost.ai/)
+8. [ ] other...
 9. [x] [NTLK](https://www.nltk.org/)
 10. [ ] [CatBoost](https://catboost.ai/)
 11. [x] [Sci-kit learn](https://scikit-learn.org/stable/)
