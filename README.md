@@ -9,18 +9,18 @@ https://metrics.lecoq.io/insights/windweb
 -->
 
 👋 Hello everyone, my name is **Kirill** and I am a 35-year-old. I have a background in economics and management, with a higher education degree from Siberian Transport University. I have extensive experience working in large companies in economic and investment positions, including management positions.
-In addition, I have been successfully trading in the stock market until March 2022 and have qualified investor status.
+In addition, I have qualified investor status. I successfully traded in the stock market until March 2022 and continue to do so, but not as actively.
 
-⛵ I am also a certified sailing boat skipper and have been working in [my own company](https://best-sail.ru) for the last 5 years as a skipper, conducting week-long sailing tours for tourists to destinations such as Turkey, Montenegro, Greece, and Croatia 
+⛵ I am also a certified sailing boat skipper and have been working in [my own company](https://best-sail.ru) for the last 5 years as a skipper and SEO, conducting week-long sailing tours for tourists to destinations such as Turkey, Montenegro, Greece, and Croatia
 
-🧮 Lately I've been drifting towards **Data Science** with [Practicum](https://practicum.com/data-science/). I have set my sights on a new challenge and have been studying Python programming language and data analysis techniques to become a  **Data Science** specialist and analyst. I am confident in my ability to apply my mathematical and business economics knowledge to the field of data science and become a valuable asset to any organization.
+🧮 Lately, I've been drifting toward **Data Science** with the help of the [Practicum](https://practicum.com/data-science/). I set myself new challenges and decided to learn the Python programming language in order to become a Data Scientist and Analyst. I am confident in my ability to apply my mathematical and business economics knowledge to the field of data science and become a valuable asset to any organization.
 
-My experience in leadership and coordination on the sea will prove to be valuable assets in my new career path. I am eager to apply my skills to real-world problems and make an impact in the field of data science.
+My experience in leadership and coordination on the sea will allow me to be valuable person in my professional journey. I am eager to apply my skills to real-world problems and benefit myself/the company/community
 
 I am a lifelong learner and am constantly seeking new challenges and opportunities to grow and develop my skills. Whether on the sea or in the world of data, I am a driven and dedicated individual who is determined to succeed in all of my endeavors.
 
 
-👨‍💻 On GitHub I mostly learn by parsing other people's projects, as well as posting solutions to problems I encounter while learning.
+👨‍💻 On GitHub, I mostly learn by parsing other people's projects and posting some of the solutions to problems I encounter while learning.
 
 **Skills I want to learn**
 1. [x] Basic Python
