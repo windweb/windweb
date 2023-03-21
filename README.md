@@ -39,7 +39,7 @@ I am a lifelong learner and am constantly seeking new challenges and opportuniti
 14. [ ] [PySpark](https://spark.apache.org/docs/latest/api/python/)
 15. [ ] Probability theory and [statistics](https://stepik.org/course/76/info)
 16. [ ] Algorithms and numerical methods
-17. [ ] Linear algebra
+17. [x] Linear algebra
 18. [ ] Preprocessing Data
 19. [ ] Exploratory Data Analysis (EDA)
 20. [ ] Data Storage
