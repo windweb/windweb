@@ -49,6 +49,8 @@ I am a lifelong learner and am constantly seeking new challenges and opportuniti
 24. [x] A/B testing
 25. [x] Product funnel and conversion
 26. [x] CI/CD + линтеры
-27. [ ] other...
+27. [o] Basic R
+28. [o] Basic Java
+29. [ ] other...
 
 💬 If you like what I do - feel free to drop by my [discord.windweb.ru](https://discord.windweb.ru/)
