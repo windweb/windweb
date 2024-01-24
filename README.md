@@ -23,7 +23,7 @@ I am a lifelong learner and am constantly seeking new challenges and opportuniti
 👨‍💻 On GitHub, I mostly learn by parsing other people's projects and posting some of the solutions to problems I encounter while learning.
 
 **Skills I want to learn**
-1. [x] Basic Python
+1. [x] General Python
 2. [x] [Pandas](https://pandas.pydata.org/)
 3. [x] [Seaborn](https://seaborn.pydata.org/)
 4. [x] [Matplotlib](https://matplotlib.org/)
@@ -36,18 +36,19 @@ I am a lifelong learner and am constantly seeking new challenges and opportuniti
 11. [x] [Sci-kit learn](https://scikit-learn.org/stable/)
 12. [x] [Keras](https://keras.io/)
 13. [x] [Numpy](https://numpy.org/)
-14. [ ] [PySpark](https://spark.apache.org/docs/latest/api/python/)
-15. [ ] Probability theory and [statistics](https://stepik.org/course/76/info)
+14. [x] [PySpark](https://spark.apache.org/docs/latest/api/python/)
+15. [x] Probability theory and [statistics](https://stepik.org/course/76/info)
 16. [x] Algorithms and numerical methods
 17. [x] Linear algebra [Connect_Four_Game](https://github.com/windweb/Connect_Four_Game)
-18. [ ] Preprocessing Data
+18. [x] Preprocessing Data
 19. [x] Exploratory Data Analysis (EDA)
-20. [ ] Data Storage
+20. [x] Data Storage
 21. [x] Time series analysis
-22. [ ] Data labelling
+22. [x] Data labelling
 23. [x] Machine learning
 24. [x] A/B testing
 25. [x] Product funnel and conversion
-26. [ ] other...
+26. [x] CI/CD + линтеры
+27. [ ]other...
 
 💬 If you like what I do - feel free to drop by my [discord.windweb.ru](https://discord.windweb.ru/)
