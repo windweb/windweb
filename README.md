@@ -49,7 +49,7 @@ I am a lifelong learner and am constantly seeking new challenges and opportuniti
 24. [x] A/B testing
 25. [x] Product funnel and conversion
 26. [x] CI/CD + линтеры
-27. [ ] Basic R
+27. [ ] [Basic R](https://windweb.shinyapps.io/test_task_aidarov_kirill_final/)
 29. [ ] [Basic Java](https://github.com/windweb/JavaTutorial)
 30. [ ] other...
 
