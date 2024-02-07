@@ -13,6 +13,16 @@ In addition, I have qualified investor status. I successfully traded in the stoc
 
 ⛵ I am also a certified sailing boat skipper and have been working in [my own company](https://best-sail.ru) for the last 5 years as a skipper and SEO, conducting week-long sailing tours for tourists to destinations such as Turkey, Montenegro, Greece, and Croatia
 
+🔍 Adding to my diverse skill set, I have also ventured into the realm of quality assurance, working as a QA Tester. This experience has honed my attention to detail and my ability to systematically approach problem-solving. In my role as a QA Tester, I was responsible for ensuring the quality and reliability of software products by designing and executing test plans and cases. My work involved both manual and automated testing, leveraging tools such as Selenium WebDriver, PyTest, and Postman to identify bugs and ensure that software functionalities met the specified requirements.
+
+My journey in quality assurance has taught me the importance of maintaining a high standard of quality in every aspect of a project. It has also provided me with a unique perspective on how data and software interact, further enriching my understanding of the tech world. This experience complements my data science aspirations, as it emphasizes the significance of accuracy and precision—qualities that are paramount in both fields.
+
+Combining my background in economics, leadership skills as a sailing boat skipper, and my technical experience in quality assurance and data science, I believe I bring a unique blend of analytical, technical, and managerial skills to the table. I am excited about the opportunity to leverage my diverse experiences in solving complex problems and contributing to the advancement of technology and data analysis.
+
+🌐 On GitHub, my contributions extend beyond my personal learning journey. I engage with the community by sharing insights from my QA testing experience, offering solutions to common testing challenges, and collaborating on projects that intersect the domains of data science and quality assurance. This collaborative spirit is driven by my belief in continuous learning and my desire to contribute to the broader tech community.
+
+In conclusion, my multifaceted career path reflects my versatility and eagerness to explore new territories. From the economic strategies to the open seas, and through the meticulous world of QA testing to the analytical realm of data science, my journey is a testament to my adaptability and determination. I am excited to bring my wealth of experience and passion for learning and improvement to new challenges ahead.
+
 🧮 Lately, I've been drifting toward **Data Science** with the help of the [Practicum](https://practicum.com/data-science/). I set myself new challenges and decided to learn the Python programming language in order to become a Data Scientist and Analyst. I am confident in my ability to apply my mathematical and business economics knowledge to the field of data science and become a valuable asset to any organization.
 
 My experience in leadership and coordination on the sea will allow me to be valuable person in my professional journey. I am eager to apply my skills to real-world problems and benefit myself/the company/community
