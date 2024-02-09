@@ -54,7 +54,7 @@ In conclusion, my career is a blend of professional QA testing focus, enriched b
 25. [x] Product funnel and conversion
 26. [x] CI/CD + линтеры
 27. [ ] [Basic R](https://windweb.shinyapps.io/test_task_aidarov_kirill_final/)
-29. [ ] [Basic Java](https://github.com/windweb/JavaTutorial)
-30. [ ] other...
+28. [ ] [Basic Java](https://github.com/windweb/JavaTutorial)
+29. [ ] other...
 
 💬 If you like what I do - feel free to drop by my [discord.windweb.ru](https://discord.windweb.ru/)
