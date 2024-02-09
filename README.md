@@ -33,7 +33,7 @@ In conclusion, my career is a blend of professional QA testing focus, enriched b
 4. [x] [Matplotlib](https://matplotlib.org/)
 5. [ ] [PyMystem](https://pypi.org/project/pymystem3/)
 6. [x] [LightGBM](https://github.com/microsoft/LightGBM)
-7. [x] [XGBoost](https://github.com/dmlc/xgboost)8. 
+7. [x] [XGBoost](https://github.com/dmlc/xgboost)
 8. [x] [NTLK](https://www.nltk.org/)
 9. [x] [MLflow](https://mlflow.org/)
 10. [x] [CatBoost](https://catboost.ai/)
